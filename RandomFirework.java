@@ -111,6 +111,7 @@ public class RandomFirework extends JavaPlugin {
 						else {
 							dump3 = slotnum.clone();
 						}
+						dumpnum++;
 					}
 				}
 				else {
